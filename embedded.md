@@ -1,1 +1,1 @@
-introduction to embedded systems
+Fitness Tracker using Embedded concept.
